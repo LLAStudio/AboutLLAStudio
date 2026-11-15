@@ -55,5 +55,5 @@ Our ecosystem is built around three distinct lines:
 *Crafted with precision and a splash of acid by **LLAStudio** — Est. November 8, 2026.*
 
 </div>
-🌐 **More info at https://llastudio.github.io/AboutLLAStudio/**
+🌐 **More info at https://llastudio.github.io/AboutLLAStudio/
 
